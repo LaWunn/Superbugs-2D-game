@@ -11,4 +11,4 @@
 
 **Installation Guide**
 1) Download all contents.
-2) 2) Launch the file “index”. Game will load on your default browser.
+2) Launch the file “index”. Game will load on your default browser.
