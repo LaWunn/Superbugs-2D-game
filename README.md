@@ -12,3 +12,7 @@
 **Installation Guide**
 1) Download all contents.
 2) Launch the file “index”. Game will load on your default browser.
+
+![image](https://github.com/LaWunn/Superbugs-2D-game/assets/77289968/cceea60c-9ca6-40d2-9e4f-d4407024ec6e)
+![image](https://github.com/LaWunn/Superbugs-2D-game/assets/77289968/4a5ad796-c1e1-48a6-b660-c60375c18bfb)
+![image](https://github.com/LaWunn/Superbugs-2D-game/assets/77289968/3ab87892-9140-4e3c-b551-d5dbb9e962e2)
